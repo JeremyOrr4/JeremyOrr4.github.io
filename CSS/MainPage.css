@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Microgramma'; 
+    src: url('../Font/Microgramma\ D\ Extended\ Bold.otf') format('truetype');
+}  
+
+:root{
+    --white: #f0f8ff;
+}
+
+body{
+    position: fixed; 
+    left: 0px; 
+    right: 0px; 
+    top: 0px; 
+    bottom: 0px; 
+    overflow: hidden; 
+    margin: 0; 
+    padding: 0;
+}
+
+.mainBackground{
+    width: 100%;
+    height: 100%; 
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    /* position: fixed;
+    top: 20px;
+    left: 25px;
+    right: 25px;
+    bottom: 25px; */
+    
+    /* background-color: rgba(255, 255, 255); */
+}
+
+.Link{
+    font-family: "Microgramma", Arial, sans-serif;
+    font-size: 2.7rem;
+    position: absolute;
+    color: inherit;
+    text-decoration: none;
+    color: white;
+}
+.TitleGrid{
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+}
+
+.Title{
+    margin: 0;
+    font-size: 6.7rem;
+    top: 15%;
+    width: 100%;
+    position: relative;
+}
+
+.SubTitle{
+    font-size: 3.5rem;
+    top: -13px;
+    position: relative;
+}
+
+.removeFontStyle{
+    color: inherit;
+    text-decoration: none;
+}
+
+.TopLeft{
+    top: 30px;
+    left: 40px;
+}
+
+.TopRight{
+    top: 30px;
+    right: 40px;
+}
+
+.BottomLeft{
+    left: 40px;
+    bottom: 30px;
+}
+
+.BottomRight{
+    bottom: 30px;
+    right: 40px;
+}
+
+#container3D{
+    position: fixed;
+    top: 0px;
+}
+
+@media screen and (max-width: 1400px) {
+    
+}

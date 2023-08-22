@@ -1,0 +1,11 @@
+Model Information:
+* title:	RICKENBACKER 325
+* source:	https://sketchfab.com/3d-models/rickenbacker-325-1f9c94eb499b4553869a4d0d0c84572d
+* author:	Gabriel3D1641 (https://sketchfab.com/gabrielagustini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RICKENBACKER 325" (https://sketchfab.com/3d-models/rickenbacker-325-1f9c94eb499b4553869a4d0d0c84572d) by Gabriel3D1641 (https://sketchfab.com/gabrielagustini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

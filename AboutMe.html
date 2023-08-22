@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Jeremy Orr</title>
+        <meta name="Jeremy Orr Home" content="Jeremy Orr's personal website">
+        <link rel="stylesheet" href="../CSS/SecondaryPage.css">
+        <link rel="icon" href="../Images/favicon.ico">
+    </head>
+    <body>
+    <!-- NavBar -->
+        <div class="nav-container">
+            <nav class="navbar">
+                <h1 id="navbar-logo"> <a class="removeSytle" href="../index.html">JEREMY ORR</a>  </h1>
+                <div class="menu-toggle" id="mobile-menu">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+                <ul class="nav-menu">
+                    <li> <a href="SoftwareProjects.html" class="nav-links">SOFTWARE <br> PROJECTS </a> </li></li>
+                    <li> <a href="MyMusic.html" class="nav-links">MY <br> MUSIC</a></li>
+                    <li> <a href="AboutMe.html" class="nav-links">ABOUT <br> ME</a></li>
+                    <li> <a href="ContactMe.html" class="nav-links">CONTACT <br> ME</a></li>
+                </ul>
+            </nav>
+        </div>
+        <script type="text/javascript" src="JavaScript/jquery-3.7.0.min.js"></script>
+        <script src="/JavaScript/MenuToggle.js"></script>
+    <!-- End NavBar -->
+
+        <canvas id="background" class="mainBackground"> </canvas>
+    
+        <!-- Folder -->
+        <div class = "folder">
+            <div class="Folder-Title">
+                <h1 class="Folder-Title-Text"> ABOUT ME </h1> </div>
+            <div class="folder-Body">
+                <div class="Folder-Text">
+                    <h1 class="header"> Hi I'm Jeremy!</h1>
+                    
+                    <p1 class="body-text">I'm a third year Software Engineering and Management (B.Eng.Mgmt) Co-op student at McMaster University. When I'm not at school or on Co-op, I enjoy working at McMaster's Hackathon (DeltaHacks) which I support the sposership team. I also enjoy music and love to play with my friends in my spare time</br></br>
+                    Please feel free to reach out about any questions you have and my contact info is on my Contact Me page!
+                    
+                    </p1>
+                </div>
+            </div>
+        </div>
+        <!-- End Folder -->
+
+        <div class="main">
+            <div id="container3D"></div>
+        </div>
+        
+        <script src="/JavaScript/lavaLamp.js"></script>
+        <script src="/JavaScript/SinglePageCanvas.js"></script>
+        <script type="module" src="/3DObject.js"></script>
+    </body>
+</html>
