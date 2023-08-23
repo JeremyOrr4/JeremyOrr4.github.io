@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0b33b1c.css",
+    "main.js": "/static/js/main.d980c015.js",
+    "static/media/Microgramma D Extended Bold.otf": "/static/media/Microgramma D Extended Bold.9d81240ce329ee3337f7.otf",
+    "static/media/headphones.jpg": "/static/media/headphones.f056aad212119114fda6.jpg",
+    "index.html": "/index.html",
+    "static/media/x.svg": "/static/media/x.5bad70d84c22cd72d30ac8018a9cb258.svg",
+    "main.e0b33b1c.css.map": "/static/css/main.e0b33b1c.css.map",
+    "main.d980c015.js.map": "/static/js/main.d980c015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b33b1c.css",
+    "static/js/main.d980c015.js"
+  ]
+}
