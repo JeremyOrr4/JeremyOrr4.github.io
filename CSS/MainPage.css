@@ -43,6 +43,24 @@ body{
     text-decoration: none;
     color: white;
 }
+
+/* .TopRight:hover{
+    color: rgb(137, 43, 226);
+    transition: all 0.4s ease-out;
+}
+.TopLeft:hover{
+    color: blueviolet;
+    transition: all 0.4s ease-out;
+}
+.BottomLeft:hover{
+    color: blueviolet;
+    transition: all 0.4s ease-out;
+}
+.BottomRight:hover{
+    color: blueviolet;
+    transition: all 0.4s ease-out;
+} */
+
 .TitleGrid{
     top: 20%;
     width: 100%;
@@ -52,7 +70,7 @@ body{
 
 .Title{
     margin: 0;
-    font-size: 6.7rem;
+    font-size: 7.2rem;
     top: 15%;
     width: 100%;
     position: relative;
@@ -94,6 +112,28 @@ body{
     top: 0px;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 726px) {
+    .Link{
+        font-family: "Microgramma", Arial, sans-serif;
+        font-size: 1.4rem;
+        position: absolute;
+        color: inherit;
+        text-decoration: none;
+        color: white;
+    }  
+
+    .Title{
+        margin: 0;
+        font-size: 6.3rem;
+        top: 15%;
+        width: 100%;
+        position: relative;
+    }
+    
+    .SubTitle{
+        font-size: 3.1rem;
+        top: -13px;
+        position: relative;
+    }
     
 }

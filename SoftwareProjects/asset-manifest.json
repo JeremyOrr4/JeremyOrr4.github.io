@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2eabbb89.css",
-    "main.js": "/static/js/main.52bffc6a.js",
+    "main.css": "/static/css/main.237665c2.css",
+    "main.js": "/static/js/main.23ff333f.js",
     "static/media/MainHandProject.png": "/static/media/MainHandProject.b6b41497ce0a376fb658.png",
     "static/media/mainWebsite.png": "/static/media/mainWebsite.9bf2f29853f19dc59de0.png",
     "static/media/mainIsland.svg": "/static/media/mainIsland.e88715f858e6af8e047e757589b257bf.svg",
+    "static/media/island1.svg": "/static/media/island1.dbb7f92078a86cdf8fd448e43dd42664.svg",
     "static/media/Microgramma D Extended Bold.otf": "/static/media/Microgramma D Extended Bold.9d81240ce329ee3337f7.otf",
     "static/media/MainMathGame.png": "/static/media/MainMathGame.c6a112cd5b69d87acc00.png",
+    "static/media/GUIinner.jpg": "/static/media/GUIinner.d0c3f775b2b2bcb58942.jpg",
     "static/media/mainFinancialApp.jpg": "/static/media/mainFinancialApp.e2be4182a3bc13ee6244.jpg",
     "index.html": "/index.html",
     "static/media/x.svg": "/static/media/x.5bad70d84c22cd72d30ac8018a9cb258.svg",
-    "main.2eabbb89.css.map": "/static/css/main.2eabbb89.css.map",
-    "main.52bffc6a.js.map": "/static/js/main.52bffc6a.js.map"
+    "main.237665c2.css.map": "/static/css/main.237665c2.css.map",
+    "main.23ff333f.js.map": "/static/js/main.23ff333f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2eabbb89.css",
-    "static/js/main.52bffc6a.js"
+    "static/css/main.237665c2.css",
+    "static/js/main.23ff333f.js"
   ]
 }
