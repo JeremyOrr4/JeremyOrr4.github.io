@@ -1,5 +1,5 @@
   const targetElementId = "p1";
-  const textsToDisplay = ["Musician", "Professional Napper", "Software Engineer"];
+  const textsToDisplay = ["Musician", "Software Engineer"];
   const intervalBetweenTexts = 2500;
 
   
